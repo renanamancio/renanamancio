@@ -92,4 +92,12 @@
   <img src="https://streak-stats.demolab.com?user=renanamancio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[renanamancio]/[renanamancio]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[renanamancio]/[renanamancio]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[renanamancio]/[renanamancio]/output/pacman-contribution-graph.svg">
+</picture>
+
+_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
