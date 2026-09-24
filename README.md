@@ -29,9 +29,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou o Renan Amâncio, estudante de tecnologia e desenvolvedor apaixonado por criar soluções eficientes, funcionais e de qualidade. Atualmente, trabalho como **Auxiliar de Desenvolvimento na Gestão Virtual**, desenvolvendo aplicações web com **PHP, Laravel, React e TypeScript**.
+Sou o Renan Amâncio, estudante de tecnologia e desenvolvedor apaixonado por criar soluções eficientes, funcionais e de qualidade. Atualmente, trabalho como **Auxiliar de Desenvolvimento na Gestão Virtual**.
 
-Também sou participante, no **Instituto Federal de Goiás (IFG)**, do projeto de pesquisa **“Implementação de um aplicativo de Gestão de Resíduos Eletrônicos”**, contribuindo para o desenvolvimento de uma solução voltada à gestão e ao descarte adequado de resíduos eletrônicos.
+Também sou participante, no **Instituto Federal de Goiás (IFG)**, do projeto de pesquisa **“Implementação de um aplicativo de Gestão de Resíduos Eletrônicos”**, contribuindo para o desenvolvimento da solução.
 
 Busco evoluir constantemente por meio de projetos práticos, estudos e da aplicação de boas práticas de desenvolvimento de software.
 
@@ -74,6 +74,14 @@ Busco evoluir constantemente por meio de projetos práticos, estudos e da aplica
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=renanamancio&theme=tokyonight&hide_border=true&locale=pt_BR" height="200" alt="Sequência de contribuições" />
+</div>
+
+## 🟡 Pac-Man das minhas contribuições
+
+O Pac-Man abaixo percorre meu histórico de contribuições e é atualizado automaticamente pelo GitHub Actions:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/renanamancio/renanamancio/output/pacman-contribution-graph.svg" alt="Pac-Man percorrendo o histórico de contribuições" width="800" />
 </div>
 
 ---
