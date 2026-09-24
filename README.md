@@ -63,12 +63,7 @@ Busco evoluir constantemente por meio de projetos práticos, estudos e da aplica
 
 ## 📚 Projetos em destaque
 
-- [BibliotecaDev](https://github.com/renanamancio/BibliotecaDev) — biblioteca de livros essenciais para a área de programação.
-- [memory-math](https://github.com/renanamancio/memory-math) — jogo da memória com operações matemáticas desenvolvido em JavaFX.
-- [grafoViagens](https://github.com/renanamancio/grafoViagens) — implementação de um grafo de cidades e rotas.
-- [calculadoraPython](https://github.com/renanamancio/calculadoraPython) — calculadora desenvolvida em Python.
-- [CHALLENGE_FINAL_COMPASS_UOL_PB](https://github.com/renanamancio/CHALLENGE_FINAL_COMPASS_UOL_PB) — desafio final do programa de bolsas na área de QA com IA.
-- [swagger-diff](https://github.com/renanamancio/swagger-diff) — ferramenta para comparação de especificações Swagger.
+- [Costs](https://github.com/renanamancio/Costs) — aplicação web voltada para a gestão orçamentária de projetos.
 
 ## 📈 Estatísticas do GitHub
 
