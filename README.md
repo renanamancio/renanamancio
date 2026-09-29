@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Olá, eu sou o Renan Amâncio! 👋</h1>
+  <h1>Olá, eu sou o Renan Amancio! 👋</h1>
   <p><strong>Desenvolvedor | Estudante de tecnologia | Pesquisador</strong></p>
 </div>
 
